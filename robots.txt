@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isaftway.github.io/sitemap.html
+Sitemap: https://isaftway.github.io/app/sitemap.html
+Sitemap: https://isaftway.github.io/assets/sitemap.html
+Sitemap: https://isaftway.github.io/includes/sitemap.html
+Sitemap: https://isaftway.github.io/src/sitemap.html
